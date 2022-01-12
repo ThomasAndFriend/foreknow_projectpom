@@ -1,0 +1,5 @@
+# Project exclude paths
+/foreknow_dao/target/
+/foreknow_model/target/
+/foreknow_service/target/
+/foreknow_web/target/
